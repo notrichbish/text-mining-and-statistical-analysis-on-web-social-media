@@ -4,7 +4,7 @@ This project was one of the requirements within my postgraduate module called We
 
 # IMPORTANT INFO!!!
 
-Bear in mind that this project uses API to get the data. Therefore, if anyone wants to use the "NewsAPI" or the official Twitter API. The user needs to create an account on both API to obtain the API keys.
+Bear in mind that this project uses API to get the data. Therefore, if anyone wants to use the "NewsAPI" or the official Twitter API. The user needs to create an account on both API to obtain the API keys. (Don't worry, It's free!)
 
 A full explaination of each part are as of below:
 
