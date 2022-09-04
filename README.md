@@ -12,6 +12,9 @@ A graph analysis on Facebook Dataset SNAP by Stanford University website is perf
 
 In the text mining part of the project, a different API called "TwythonStreamer" is used to fetch real-time tweets regarding a certain topic. The topic chosen in this project was "Elon Musk" as at that time, Elon Musk just bought the social media platform "Twitter". A sentiment analysis was performed to evaluate the public opinion on this matter, word cloud and word frequency was performed as well. Additonally, the "NewsAPI" is used to extract Articles regarding "Elon Musk" where pre-processing and Latent Semantic Indexing (LSI) is done to perform Topic Modelling. 
 
+## Proceeding with the files
+
+The python file has been labelled in order, and hence for easier readibility please refer to them in order.
 
 This project is coded in Python using the PyCharm IDE.
 
