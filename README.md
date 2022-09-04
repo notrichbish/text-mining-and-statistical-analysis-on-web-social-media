@@ -26,6 +26,12 @@ In the text mining part of the project, a different API called "TwythonStreamer"
 
 The python file has been labelled in order, and hence for easier readibility please refer to them in order.
 
+## Dataset
+The dataset for the statistical analysis and text mining is provided within the github project. 
+
+But the data for the graph analysis is provided by the SNAP dataset: https://snap.stanford.edu/data/ego-Facebook.html
+
+## Misc
 This project is coded in Python using the PyCharm IDE.
 
 
