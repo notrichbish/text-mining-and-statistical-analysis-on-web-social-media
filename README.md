@@ -2,7 +2,7 @@
 
 This project was one of the requirements within my postgraduate module called Web Social Media Analytics and Visualization. This project are mainly focused on two part which are Part A: Statistical Analysis on a Popular trends on Twitter and Part B: text mining on an event/campaign happening. 
 
-# Important
+# IMPORTANT INFO!!!
 
 Bear in mind that this project uses API to get the data. Therefore, if anyone wants to use the "NewsAPI" or the official Twitter API. The user needs to create an account on both API to obtain the API keys.
 
