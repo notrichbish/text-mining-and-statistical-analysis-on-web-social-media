@@ -6,6 +6,9 @@ This project was one of the requirements within my postgraduate module called We
 
 Bear in mind that this project uses API to get the data. Therefore, if anyone wants to use the "NewsAPI" or the official Twitter API. The user needs to create an account on both API to obtain the API keys. (Don't worry, It's free!)
 
+NewsAPI: https://newsapi.org/
+Twitter API: https://developer.twitter.com/en/docs/twitter-api
+
 A full explaination of each part are as of below:
 
 ## Part A: Statistical Analysis
